@@ -1,6 +1,0 @@
-1, Muhammad Naim bin Abdul Jalil, 0123456789, naim@gmail.com, naim2001, 2001, No 3 Jalan Lima 2, Johor Bahru, Johor, 81100
-2, Muhammad Naim bin Abdul Jalil, 0123456789, naim@gmail.com, cnaim2001, 2001, No 3 Jalan Lima 2, Johor Bahru, Johor, 81100
-3, Muhammad Naim bin Abdul Jalil, 0123456789, naim@gmail.com, vnaim2001, 2001, No 3 Jalan Lima 2, Johor Bahru, Johor, 81100
-1, Muhammad Aniq Aqil, 0111111111, aniq@gmail.com, aniq2001, 2001, No 3 Jalan Lima 3, Johor Bahru, Johor, 81100
-2, Muhammad Aniq Aqil, 0111111111, aniq@gmail.com, caniq2001, 2001, No 3 Jalan Lima 4, Johor Bahru, Johor, 81100
-3, Muhammad Aniq Aqil, 0111111111, aniq@gmail.com, vaniq2001, 2001, No 3 Jalan Lima 6, Johor Bahru, Johor, 81100
